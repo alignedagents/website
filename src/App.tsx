@@ -151,7 +151,7 @@ function App() {
       <footer className="border-t border-gray-200 py-8">
         <div className="max-w-5xl mx-auto px-4">
           <p className="text-center text-gray-500 text-sm">
-            © 2025 AlignedAgents Research. All rights reserved.
+            © 2025 Aligned Agents Research. All rights reserved.
           </p>
         </div>
       </footer>
